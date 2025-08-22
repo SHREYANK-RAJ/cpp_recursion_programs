@@ -3,7 +3,11 @@ This folder contains simple C++ programs to understand the concept of **recursio
 
 ## Files
 
-- **factorial.cpp** → Recursively calculates the factorial of a number.
-- **forward_counting.cpp** → Prints numbers in increasing order using recursion.
-- **power.cpp** → Computes the power of a number (a^b) using recursion.
-- **reverse_counting.cpp** → Prints numbers in decreasing order using recursion.
+- **climb_stairs.cpp** – Solves the classic "climbing stairs" problem using recursion.
+- **factorial.cpp** – Calculates factorial of a number.
+- **fibonaci_series.cpp** – Prints Fibonacci series.
+- **forward_counting.cpp** – Prints numbers in forward order.
+- **reverse_counting.cpp** – Prints numbers in reverse order.
+- **power.cpp** – Calculates power of a number.
+- **walking_example.cpp** – Simple walking steps example.
+- **Fibonacci Number** – Finds the nth Fibonacci number.
